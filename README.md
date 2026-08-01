@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=UIT.SQD.RedBull&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=UIT.SQD.Redbull&fontSize=65&fontColor=FF8C00&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.RedBull+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F08080&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.RedBull+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
