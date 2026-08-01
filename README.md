@@ -4,15 +4,15 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F08080&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.RedBull+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F4A460&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.RedBull+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/K4doz/ICPC-Solution?style=for-the-badge&color=FFD700&logo=github" />
-  <img src="https://img.shields.io/github/forks/K4doz/ICPC-Solution?style=for-the-badge&color=00FFFF&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/K4doz/ICPC-Solution?style=for-the-badge&color=brightgreen&logo=git" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Python-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/github/stars/K4doz/ICPC-Solution?style=for-the-badge&color=D1A400&logo=github" />
+  <img src="https://img.shields.io/github/forks/K4doz/ICPC-Solution?style=for-the-badge&color=005C75&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/K4doz/ICPC-Solution?style=for-the-badge&color=00A38B&logo=git" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Python-720404?style=for-the-badge&logo=cplusplus" />
 </p>
 
 ---
