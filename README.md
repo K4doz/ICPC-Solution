@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.Redbull+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.RedBull+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -18,9 +18,9 @@
 ---
 
 ### 📌 Giới thiệu (About)
-> 🏆 **Nơi lưu trữ code lời giải các đề thi ICPC trong quá trình luyện tập của team UIT.SQD.Redbull.**
+> 🏆 **Nơi lưu trữ code lời giải các đề thi ICPC trong quá trình luyện tập của team UIT.SQD.RedBull.**
 
-Repository này được tạo ra nhằm ghi lại hành trình luyện tập, giải đề, tối ưu thuật toán và chuẩn bị cho các kỳ thi ICPC của đội tuyển **UIT.SQD.Redbull**.
+Repository này được tạo ra nhằm ghi lại hành trình luyện tập, giải đề, tối ưu thuật toán và chuẩn bị cho các kỳ thi ICPC của đội tuyển **UIT.SQD.RedBull**.
 
 ---
 
