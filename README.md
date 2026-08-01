@@ -20,7 +20,7 @@
 ### 📌 Giới thiệu (About)
 > 🏆 **Nơi lưu trữ code lời giải các đề thi ICPC trong quá trình luyện tập của team UIT.SQD.Redbull.**
 
-Repository này được tạo ra nhằm ghi lại hành trình luyện tập, giải đề, tối ưu thuật toán và chuẩn bị cho các kỳ thi ICPC (International Collegiate Programming Contest) của đội tuyển **UIT.SQD.Redbull**.
+Repository này được tạo ra nhằm ghi lại hành trình luyện tập, giải đề, tối ưu thuật toán và chuẩn bị cho các kỳ thi ICPC của đội tuyển **UIT.SQD.Redbull**.
 
 ---
 
