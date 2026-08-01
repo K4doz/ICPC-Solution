@@ -17,14 +17,14 @@
 
 ---
 
-### 📌 Giới thiệu (About)
+### 📌 About
 > 🏆 **Nơi lưu trữ code lời giải các đề thi ICPC trong quá trình luyện tập của team UIT.SQD.RedBull.**
 
 Repository này được tạo ra nhằm ghi lại hành trình luyện tập, giải đề, tối ưu thuật toán và chuẩn bị cho các kỳ thi ICPC của đội tuyển **UIT.SQD.RedBull**.
 
 ---
 
-### 🛠️ Ngôn ngữ & Công cụ sử dụng
+### 🛠️ Language & Training Platform
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank">
@@ -42,7 +42,7 @@ Repository này được tạo ra nhằm ghi lại hành trình luyện tập, g
 
 ---
 
-### 📂 Cấu trúc Repository
+### 📂 Repository Form
 
 ```text
 📦 ICPC-Solution
