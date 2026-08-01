@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=220&section=header&text=UIT.SQD.Redbull&fontSize=65&stroke=FF8C00&strokeWidth=1&animation=fadeIn&fontAlignY=38&fontColor=FF8C00" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=UIT.SQD.Redbull&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&background=F08080&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.Redbull+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=ICPC+Training+Repository;Solutions+%26+Algorithms;Team+UIT.SQD.Redbull+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/K4doz/ICPC-Solution?style=for-the-badge&color=FF8C00&labelColor=F08080&logo=github&logoColor=FF8C00" />
-  <img src="https://img.shields.io/github/forks/K4doz/ICPC-Solution?style=for-the-badge&color=FF8C00&labelColor=F08080&logo=github&logoColor=FF8C00" />
-  <img src="https://img.shields.io/github/last-commit/K4doz/ICPC-Solution?style=for-the-badge&color=FF8C00&labelColor=F08080&logo=git&logoColor=FF8C00" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Python-FF8C00?style=for-the-badge&labelColor=F08080&logo=cplusplus&logoColor=FF8C00" />
+  <img src="https://img.shields.io/github/stars/K4doz/ICPC-Solution?style=for-the-badge&color=FFD700&logo=github" />
+  <img src="https://img.shields.io/github/forks/K4doz/ICPC-Solution?style=for-the-badge&color=00FFFF&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/K4doz/ICPC-Solution?style=for-the-badge&color=brightgreen&logo=git" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Python-blue?style=for-the-badge&logo=cplusplus" />
 </p>
 
 ---
