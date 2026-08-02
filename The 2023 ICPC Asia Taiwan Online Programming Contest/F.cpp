@@ -240,13 +240,6 @@ void Solve() {
             isQuery[i] = 1;
         }
     }
-
-    // for(int i=1; i<=nComp; ++i){
-    //     cout << i << ": ";
-    //     for(auto [j, l]:G[i]) cout << j << ' ';
-    //     cout << endl;
-    // }
-
     for(int i=1; i<=nComp; ++i) if(!pos[i]){
         dfs_sz(i);
         hld(i, i);
@@ -258,11 +251,7 @@ void Solve() {
 
     for(int i=q; i>=1; --i){
         int u = id[del[i].u], v = id[del[i].v];
-        // cout << u << ' ' << v << ' ' << del[i].id << ' ' << isQuery[i] << endl;
-
-        // for(int i=1; i<=n; ++i) cout << get(1, 1, nComp, pos[id[i]], pos[id[i]]) << ' ';
-        // cout << '\n';
-
+        
         Ans[i] = st[1];
         if(!isQuery[i]){
             if(h[u] < h[v]) swap(u, v);
@@ -271,12 +260,8 @@ void Solve() {
         else{
             updPath(u, v, 0);
         }
-
-        // for(int i=1; i<=n; ++i) cout << get(1, 1, nComp, pos[id[i]], pos[id[i]]) << ' ';
-        // cout << "\n\n";
     }
-    // cout << '\n';
-
+    
     for(int i=1; i<=q; ++i) cout << Ans[i] << '\n';
 }
 
